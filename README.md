@@ -3,7 +3,7 @@
 #### Most of us like to listen to music, and nothing could be more pleasing to us if we can make and customize our Music player. From this Project we will get to know how we can play an mp3 file in Java and also we will create a simple music player.
 
 # IDE Used: Eclipse 
-#### you can also use Netbeans or IntelliJ
+
 
 # How to Play Mp3 File in Java
 #### Downloading jlayer Jar File
@@ -16,12 +16,10 @@
 # step 2
 
 #### Create a new Java project in your IDE and give it a name. You can use any IDE like NetBeans, Eclipse or IntelliJ IDEA to create your Java project.
-# For NetBeans users,
-#### Right click on the Libraries folder then select Add JAR/Folder and then you can add the JAR file to your project.
+
 # For Eclipse users,
 #### Right click on the Project then select Properties —>>>>Java Build Path and then you can choose Add External JARs button to add the JAR file.
-# For IntelliJ IDEA users,
-#### Go to File––>>>>Project Structure—>>>>Libraries then click on the “+” sign and select Java and then you can add the JAR file.
+
 
 # Screenshots:
 ![Screenshot (898)](https://user-images.githubusercontent.com/103052725/161811313-c2ee4c29-c56a-4922-b4f9-523ec43a9514.png)
